@@ -13,3 +13,6 @@ To run, the following libraries must be installed:
  * sklearn
 
 Once these libraries are installed the code can be run, cell by cell, correctly and without problem. 
+
+March 9th, 2022.
+Added AdaBoost, Random Forest and Naive Bayes to the predictive models. Grid search was also implemented for hyperparameter optimization.
