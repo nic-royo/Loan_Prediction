@@ -1,7 +1,7 @@
-# Loan_Prediction Prototype
-The main object is to train a dataset with neural networks and other methods to recognize which users will default on a loan, then test the network on a fresh dataset.
+# Loan_Prediction 
+This is my bachelor thesis for an undergrad in Computer Science at Goldsmiths, University of London.
 
-Right now, I have a done exploratory analysis and cleaning of the data, and a working decision tree classifier which I will compare to other algorithms in the future.
+The main object is to train a dataset with machine learning models to recognize which users will default on a loan.
 
 To run, the following libraries must be installed:
  * pandas 
@@ -12,11 +12,12 @@ To run, the following libraries must be installed:
  * seaborn 
  * sklearn
 
-Once these libraries are installed the code can be run, cell by cell, correctly and without problem. 
-
-March 9th, 2022.
-Added AdaBoost, Random Forest and Naive Bayes to the predictive models. Grid search was also implemented for hyperparameter optimization.
-
+The Training Data.csv file contains the dataset that will be used for training and testing
+The final report.pdf is a report indicating the findings of this bachelor thesis.
 The file LoanPrediction.ipynb is an unfinished file where there are serious imbalancement issues.
-
 The file FinishedPrediction.ipynb is the complete and finished project, with imbalancement issues resolved
+The code_ipynb.pdf is a pdf file of the code.
+
+The models done are the following: Decision Trees, Random Forest, AdaBoost, Support Vector Machines and Naive Bayes Algorithm
+
+
