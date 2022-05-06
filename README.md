@@ -16,3 +16,7 @@ Once these libraries are installed the code can be run, cell by cell, correctly 
 
 March 9th, 2022.
 Added AdaBoost, Random Forest and Naive Bayes to the predictive models. Grid search was also implemented for hyperparameter optimization.
+
+The file LoanPrediction.ipynb is an unfinished file where there are serious imbalancement issues.
+
+The file FinishedPrediction.ipynb is the complete and finished project, with imbalancement issues resolved
